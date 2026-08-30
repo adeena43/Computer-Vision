@@ -1,7 +1,5 @@
 # Medical Imaging Portfolio
 
-Author: **[Your Name Here — rename the root folder to `YourName_Medical_Imaging_Portfolio` before submitting]**
-
 This repository contains three self-contained mini-projects applying classical
 computer-vision / image-processing mathematics (histogram equalization, false-color
 mapping, color balance, thresholding, logarithmic and power-law transforms, and
