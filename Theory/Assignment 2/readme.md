@@ -50,9 +50,6 @@ are in the report.
 - `demo.py`: runs the submitted model on one image and prints its attributes.
 - `submission_320/`: the submitted code (`run.py`, `metadata.yaml`, weights).
 
-## How to run
-
-Install: Python 3.11, PyTorch with CUDA, torchvision, numpy, pandas, Pillow.
 
 # submission 1
 <img width="1280" height="658" alt="submission" src="https://github.com/user-attachments/assets/47beb83b-59ea-43b4-8a43-b85a24ec5420" />
