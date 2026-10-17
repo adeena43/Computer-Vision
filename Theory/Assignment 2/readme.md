@@ -9,3 +9,6 @@
 
 # rank
 <img width="1272" height="662" alt="leaderboard" src="https://github.com/user-attachments/assets/66584256-8a8e-4c8d-99de-66dbd0542ad9" />
+
+# submission folders on drive
+https://drive.google.com/drive/folders/19goBZ_G6ONS_MI8_pLQ7klzsiuCzqNoO?usp=sharing
