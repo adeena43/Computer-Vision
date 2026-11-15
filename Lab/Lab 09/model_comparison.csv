@@ -1,0 +1,4 @@
+model,size_MB,inference_ms,FPS,detections,mean_conf
+YOLOv3,207.9,1210.2,0.83,12,0.803
+SSD (MobileNet),23.3,56.2,17.79,4,0.755
+RetinaNet,136.6,964.4,1.04,21,0.522
